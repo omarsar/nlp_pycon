@@ -16,5 +16,5 @@
   - Part 2: 2:00 2:20 (20 minutes)
   - Part 3: 2:20 to 2:50 (30 minutes)
   - Short Break (Meet others): 2:50 to 3:10 (20 minutes)
-  - Part 4: 3:00 to 4:00 (60 minutes, includes group presentation)
-  - Part 5: 4:00 to 4:20 (20 minutes)
+  - Part 4: 3:10 to 4:10 (60 minutes, includes group presentation)
+  - Part 5 (Optional): 4:10 to 4:20 (10 minutes)
